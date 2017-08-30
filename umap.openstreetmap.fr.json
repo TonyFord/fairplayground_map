@@ -1,0 +1,500 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": null,
+    "slideshow": {},
+    "captionBar": false,
+    "zoomTo": 2,
+    "limitBounds": {
+      "south": -60.23981,
+      "west": -217.61719,
+      "north": 82.89699,
+      "east": 243.98438
+    },
+    "tilelayer": {
+      "tms": false,
+      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
+      "name": "OpenStreetMap",
+      "url_template": "//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "minZoom": 0,
+      "maxZoom": 19
+    },
+    "licence": "",
+    "description": "Directory for Local Nodes and Members",
+    "name": "FairCoop Directory",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 6
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      51
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node AR - Córdoba",
+            "description": "Involved in exchange office, fairmarket, , incubator, Rizoma Integral Cooperative\n\nPOE:\n\nKsa Ek Chuah – Deán Funes 1352 – +54 9 351 7533459 – 5000 C – Córdoba, Arg\n\ntimetable :  Mon – Sun / 9:00 – 21:00 or by appointment\n\nweb: under construction  https://cordoba.fair.coop\n\nemail: cordoba@fair.coop\n\nAsk via email for Telegram group",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -64.1865921020508,
+              -31.41079122733506
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node BE - Brussels",
+            "description": "Involved with: FairCoin, Freedom Coop\n\nContact: brussels@fair.coop\n\nhttps://crabgrass.riseup.net/fcbxl",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              4.349212646484376,
+              50.848440021829276
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Working to open exchange office\n\nAddress: ninho (R. Dr. Esteves da Silva, 147 – co-working no mesmo local da rádio comunitária Gaivota)\nTimetable: every Tuesday from 19.00 to 20.30h\n\nFairnetwork page: /groups/faircoop-ubatuba/\n\nTelegram group: Ask through e-mail to join\n\ncontact: ubatuba@fair.coop",
+            "name": "Local Node BR - Ubatuba (São Paulo, Brasil)",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -45.08310556411744,
+              -23.43405253544607
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node CA - Vancouver",
+            "description": "Working to open exchange office\n\ncontact: vancouver@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -123.11562538146974,
+              49.260817231241475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node CH - Berne",
+            "description": "Involved in Exchange office, FairPay, FreedomCoop\n\nContact: bern@fair.coop, +41 77 460 16 89 (daytime)\n\nTelegram: Ask via email for invite",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.443237304687501,
+              46.95213711682888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node CH - Jura ",
+            "description": "Involved in Exchange office, Freedom Coop, Faircoin CVN, FairPay\n\nContact: jura@fair.coop, +41 329 41 41 41\n\nAddress: FairCoop Jura, Décentrale 59, 2610 Mont-Soleil, Switzerland\nMap: https://fair.to/dwRzP\nTo be on the save side, make an appointment if you want to come,\nmake a reservation if you want to sleep-over / stay a few days.\n\nTelegram group for the Jura local node:\nhttps://telegram.me/joinchat/DF437wfI6nivCG0HjQ8Xbw\n\nTelegram group for coordination and help with the setup of new local nodes in Switzerland:\nhttps://telegram.me/joinchat/DF437wg7Ag50WOFx3lkRNw",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              6.991875171661377,
+              47.15896459019695
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node ES - Bilbao",
+            "description": "Involved in exchange office, fairmarket, faircoin2 CVN\n\ncontact: email : bilbao@fair.coop\n\nMailing list : https://listas.lubakiagenda.net/bilbokoherrikooperatiba\n\nTelegram : Ask in the email for invite",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2.9343795776367188,
+              43.26145614459999
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node ES - Catalunya",
+            "description": "Involved with:  Exchange office, Freedom Coop, faircoin 2 CVN\n\nfairnetwork page: /ca/catalunya/\n\nask to join the Faircoop catalunya telegram group\n\nContact:  catalunya@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg",
+              "iconClass": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.77978515625,
+              41.77950486590359
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node ES - Madrid",
+            "description": "Involved with collective purchases, Freedom Coop and Exchange Office\n\nAddress: Banco expropiado La Canica\nC/ Embajadores 42\nTimetable: 2nd Saturday of each month from 12.00 to 14.00h\n\nMeetup group: https://www.meetup.com/es-ES/FairCoop-Madrid/\n\nMailing list: madrid-node@lists.fair-coin.org\n\nContact: madrid@fair.coop\n\nTelegram Group: Contact us to add you",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -3.7037658691406254,
+              40.41692685047143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node ES - Murcia",
+            "description": "Contact: murcia@fair.coop | tfn: 639918983 (Isa) and 652795722 (Luis)\nTelegram: Ask via email or general FairCoop chat to join",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.1303043365478518,
+              37.99244243794056
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Involved in Exchange office (POE), Freedom Coop, Faircoin CVN.\n\nContact: paisvalencia@fair.coop\n\nTelegram: Ask via email or general FairCoop chat to join",
+            "name": "Local Node ES - País Valencià",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.11780261993408203,
+              38.94672682539307
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node GR - Athens",
+            "description": "Involved in Exchange office, FairPay, FairMarket, FreedomCoop\n\nContact: athens@getfaircoin.net",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              23.72909545898438,
+              37.98100996893789
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node GR - Heraklion (Crete)",
+            "description": "Involved in: Exchange Office, FairPay, FairMarket, FreedomCoop, FairCoin 2 CVN\n\nFairNetwork page: /groups/heraklion-faircoop/\n\nTelegram group: Ask through e-mail to join\n\nExchange Office (P.O.E.): Da Social Space (every 2nd & 4th Monday of the month, 5-8 p.m.)\n\nWebpage: https://heraklion.cooperativas.gr/el/faircoin\n\nContact: heraklion@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              25.13259887695313,
+              35.3308118573182
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node GR - Thessaloniki",
+            "description": "Involved with Exchange office, Freedom Coop, Refugees Fund\n\nask to join the telegram group.\n\nFairnetwork page: /faircoop-thessaloniki/\n\ncontact: thessaloniki@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              22.935848236083988,
+              40.64093752070436
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node GT - Guatemala City (Guatemala)",
+            "description": "FairMarket and working to open exchange office\n\nPOE: La Casa de Cervantes, 5a calle 5-18 zona 1\n\nTelegram group: Ask via e-mail to join\n\nContact: guatemala@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -90.51258087158203,
+              14.640392809670411
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node IT - Marche",
+            "description": "Contact: marche@fair.coop\n\nTelegram Group: Contact us to ad you",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.138618469238283,
+              43.34701192213235
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node IT - Sicily",
+            "description": "Involved in FreedomCoop\n\nContact: fcsicilia@cubotto.org",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.151399135589601,
+              37.590346179230664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node LI - Rital",
+            "description": "(= local slang for Rheintal) Vorarlberg /Liechtenstein\n\nInvolved in: Exchange office, Freedom Coop, FairCoin development, Communication\n\nTeam of 6 people, launched on April 20th 2017 in Vaduz at exhibition “Who Pays”\n\nContact: t.b.d. – meanwhile info [ät] fairkom.eu",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.915804862976076,
+              47.24915934131196
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node NL - Amsterdam",
+            "description": "Involved in Exchange office, FairCoin, FairMarket\n\nContact: amsterdam@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              4.897842407226563,
+              52.370568669179654
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node PT - Galiza",
+            "description": "Involved in exchange office\n\nPOE: Nigran – Casa Colorida\n\nemail: casacolorida@getfaircoin.net\n\nAddress: Rosalía de Castro 16, 36350, Nigrán.\nTimetable: Monday to Friday, 10h-22h, during activities or by appointment.\nPublic Transport: Bus ATSA Vigo-Baiona.\n\nPOE:  A Corunha\n\nemail: coruna@fair.coop\n\nPlease contact to arrange a meeting in A Coruña or near.\n\nTelegram group: Ask through e-mail to join",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -8.807001113891603,
+              42.1403049385392
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node PT - Porto",
+            "description": "Involved with exchange office\n\nContact porto@fair.coop",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -8.612294197082521,
+              41.14901139952293
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node Rojava",
+            "description": "Involved in: Exchange office\n\nFairNetwork page: Rojava group (under development)\n\nTelegram group: Ask through e-mail to join\n\nWebpage: Wiki site\n\nContact: contact@rojavaplan.com",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              37.3431944847107,
+              36.61463202357766
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Local Node RS - Novi Sad (Vojvodina/Serbia)",
+            "description": "Involved in Exchange office, FairPay, FreedomCoop\n\nContact: igor@dezentrale.org, +38163573715 (daytime)\n\nTelegram: Ask via email for invite",
+            "_storage_options": {
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.843733310699466,
+              45.255661013070274
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Local Nodes",
+        "remoteData": {},
+        "iconClass": "Default",
+        "showLabel": true,
+        "labelInteractive": false,
+        "labelHover": true,
+        "id": 404613,
+        "description": "Marker - Format\n\"Local Nodes {XX} - {City}\"\nXX = ISO 3166 \nhttps://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste",
+        "color": "Grey",
+        "fillOpacity": "0.2",
+        "opacity": "0.2",
+        "fill": false
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Member DE - 09634 - Sebastian G.",
+            "description": "@TonyFord"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.346328735351564,
+              51.03966692839972
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Members",
+        "id": 404631,
+        "color": "DarkRed",
+        "iconClass": "Ball",
+        "labelInteractive": true,
+        "labelHover": true,
+        "showLabel": true
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_storage": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "Local Node Areas",
+        "id": 404750
+      }
+    }
+  ]
+}
