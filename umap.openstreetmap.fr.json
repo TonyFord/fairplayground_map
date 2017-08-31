@@ -11,10 +11,10 @@
     "captionBar": false,
     "zoomTo": 2,
     "limitBounds": {
-      "south": -60.23981,
       "west": -217.61719,
+      "east": 243.98438,
       "north": 82.89699,
-      "east": 243.98438
+      "south": -60.23981
     },
     "tilelayer": {
       "tms": false,
@@ -458,6 +458,19 @@
     {
       "type": "FeatureCollection",
       "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Member DE - 01259 - Andy S."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.855186700820925,
+              50.997386701269384
+            ]
+          }
+        },
         {
           "type": "Feature",
           "properties": {
