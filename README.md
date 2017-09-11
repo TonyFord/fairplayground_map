@@ -11,7 +11,7 @@ Duplicate the map you can create a own map ( http://umap.openstreetmap.fr ) and 
 
 OR
 
-You can also use the list of members or local nodes for other projects or purposes. 
+You can also use the list of members or local nodes for other projects or purposes.
 
 #### JSON file reader / editor
 To read and edit the JSON file a online editor can be used for it
@@ -21,3 +21,5 @@ http://www.jsoneditoronline.org/
 ### API
 
 Getting list of members or local nodes by simple API request coming soon.
+
+Tes
