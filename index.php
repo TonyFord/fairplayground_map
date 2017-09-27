@@ -21,13 +21,12 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-          <iframe width="100%" height="0" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/faircoop-directory_164625"></iframe>
+          <iframe width="100%" height="0" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/faircoop-directory_168658"></iframe>
         </div>
       </div>
       <div class="row">
         <div class="col-9">
-          <p style="height:0 !important;"><? readfile("http://api.fairplayground.info/get_localnodes_count.php"); ?> Local Nodes in <? readfile("http://api.fairplayground.info/get_localnodes_countries_count.php"); ?> different countries and <? readfile("http://api.fairplayground.info/get_members_count.php"); ?> Members in <? readfile("http://api.fairplayground.info/get_members_countries_count.php"); ?> countries.</p>
-          <p style="font-size:0.8em;">search tags #collectivepurchases #communication #cvn #exchange #freedomcoop #faircoin #fairmarket #fairpay</p>
+          <p style="height:0 !important;"><? //readfile("http://api.fairplayground.info/get_localnodes_count.php"); ?> Local Nodes and <? //readfile("http://api.fairplayground.info/get_members_count.php"); ?> Members</p>
         </div>
         <div class="col">
           <a href="http://fairplayground.info"><button class="btn btn-sm btn-outline-dark">Home</button></a>

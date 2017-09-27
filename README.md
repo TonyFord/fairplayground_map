@@ -21,5 +21,3 @@ http://www.jsoneditoronline.org/
 ### API
 
 Getting list of members or local nodes by simple API request coming soon.
-
-Tes
